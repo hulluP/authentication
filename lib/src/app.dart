@@ -44,11 +44,11 @@ class _SignInDemoState extends State<SignInDemo> {
     _googleSignIn = GoogleSignIn(
       // release
       // clientId:
-      //     '83999753583-e7nm6e70hdbn9hmnp65igqim9t6ffcfb.apps.googleusercontent.com',
+      //     '...-....apps.googleusercontent.com',
       // debug
-      // '83999753583-tiembdm9234asq20ofp5a9ivau4fhluk.apps.googleusercontent.com',
+      // '...-....apps.googleusercontent.com',
       // test
-      // '83999753583-mbbihqd3pe46mse8jt2v0k4rc0gsrs83.apps.googleusercontent.com',
+      // '...-....apps.googleusercontent.com',
       scopes: scopes,
     );
   }
